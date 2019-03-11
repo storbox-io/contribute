@@ -10,7 +10,7 @@ This is the repository on information about how to contribute to the storBox pro
 
 ### [How to contribute](https://github.com/storbox-io/contribute/blob/master/CONTRIBUTING.md)
 
-### [More information about the project](https://github.com/storbox-io/contribute/blob/master/CONTRIBUTING.md)
+### [More information about the project](https://github.com/storbox-io/contribute/blob/master/INFORMATION.md)
 
 ### [Todo Boards](https://github.com/storbox-io/contribute/projects)
 
